@@ -1,0 +1,51 @@
+* {
+    background-color: silver;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 500%;
+    text-align: center;
+}
+
+#title {
+    color: rgba(7, 102, 7, 0.918);
+}
+
+img {
+    width: 100%;
+}
+
+.menu {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blurb {
+    margin-left: 40%;
+    font-size: x-large;
+    color: rgba(7, 102, 7, 0.918);
+
+}
+
+.subhead {
+    margin-left: 20%;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.subhead.list {
+    margin-left: 10%;
+    font-style: normal;
+}
+
+.steps {
+    font-size: large;
+}
+
+.footer {
+    font-size: xx-large;
+}
